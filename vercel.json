@@ -1,0 +1,5 @@
+{
+  "buildCommand": "python build_portfolio.py --build",
+  "outputDirectory": "public",
+  "cleanUrls": true
+}

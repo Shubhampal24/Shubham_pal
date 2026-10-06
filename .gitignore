@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Vercel
+.vercel/
+
+# Generated output
+public/
+index.html
+
+# Virtual environments
+venv/
+env/
